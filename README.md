@@ -1,3 +1,18 @@
+## 강의 내용 개념 정리
+
+### JSX ( JavaScript + XML )
+
+- JavaScript 에 HTML태그를 끼얹은 문법
+  - HTML 태그 안에서 중괄호({})를 사용해서 JS사용 가능
+  ```javascript
+  const count = 1;
+  const title = <h1>{count}번쨰 고양이</h1>;
+  ```
+
+### Babel
+
+- 최신 문법을 브라우저가 이해할 수 있는 JavaScript로 통역
+
 # 고양이 짤방 생성기
 
 https://milooy.github.io/cat-jjal-maker/
